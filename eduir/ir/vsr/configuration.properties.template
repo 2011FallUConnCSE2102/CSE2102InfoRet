@@ -1,0 +1,21 @@
+#This is a comment
+
+@DirStopLists
+<stoplist directory>
+
+@DirStemmers
+<stemmers classes directory>
+
+@LanguagesStoplist
+<language_1>
+<language_2>
+#<language_3_commented>
+<language_4>
+
+
+@LanguagesStemmer
+<language_1>
+<language_2>
+#<language_3_commented>
+<language_4>
+<language_5>
